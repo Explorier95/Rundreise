@@ -1,7 +1,7 @@
 
 /**
  * @Autor Fabian Tappendorf
- * Ein Programm für die eingabe der Routen.
+ * Ein Programm für die Eingabe der Routen.
  * (RouteTest.java)
  */
 
